@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo git clone https://github.com/vinay18-2/wordpress-1.git
+sudo git clone https://github.com/rajesh-0003/dockerfilerp.git
 sudo yum install docker -y
 sudo systemctl start docker
 sudo systemctl enable docker
